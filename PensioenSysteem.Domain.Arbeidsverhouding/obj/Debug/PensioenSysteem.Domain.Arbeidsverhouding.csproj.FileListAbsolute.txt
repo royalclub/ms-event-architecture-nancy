@@ -1,0 +1,12 @@
+D:\Dev\git\cqrs-sample\PensioenSysteem.Domain.Arbeidsverhouding\bin\Debug\PensioenSysteem.Domain.Arbeidsverhouding.dll
+D:\Dev\git\cqrs-sample\PensioenSysteem.Domain.Arbeidsverhouding\bin\Debug\PensioenSysteem.Domain.Arbeidsverhouding.pdb
+D:\Dev\git\cqrs-sample\PensioenSysteem.Domain.Arbeidsverhouding\bin\Debug\Dapper.dll
+D:\Dev\git\cqrs-sample\PensioenSysteem.Domain.Arbeidsverhouding\bin\Debug\PensioenSysteem.Domain.Core.dll
+D:\Dev\git\cqrs-sample\PensioenSysteem.Domain.Arbeidsverhouding\bin\Debug\RabbitMQ.Client.dll
+D:\Dev\git\cqrs-sample\PensioenSysteem.Domain.Arbeidsverhouding\bin\Debug\PensioenSysteem.Domain.Core.pdb
+D:\Dev\git\cqrs-sample\PensioenSysteem.Domain.Arbeidsverhouding\bin\Debug\Dapper.pdb
+D:\Dev\git\cqrs-sample\PensioenSysteem.Domain.Arbeidsverhouding\bin\Debug\Dapper.xml
+D:\Dev\git\cqrs-sample\PensioenSysteem.Domain.Arbeidsverhouding\bin\Debug\RabbitMQ.Client.xml
+D:\Dev\git\cqrs-sample\PensioenSysteem.Domain.Arbeidsverhouding\obj\Debug\PensioenSysteem.Domain.Arbeidsverhouding.csprojResolveAssemblyReference.cache
+D:\Dev\git\cqrs-sample\PensioenSysteem.Domain.Arbeidsverhouding\obj\Debug\PensioenSysteem.Domain.Arbeidsverhouding.dll
+D:\Dev\git\cqrs-sample\PensioenSysteem.Domain.Arbeidsverhouding\obj\Debug\PensioenSysteem.Domain.Arbeidsverhouding.pdb

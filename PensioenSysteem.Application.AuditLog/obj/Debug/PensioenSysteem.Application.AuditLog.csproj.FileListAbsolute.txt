@@ -1,0 +1,17 @@
+D:\Dev\git\cqrs-sample\PensioenSysteem.Application.AuditLog\bin\Debug\PensioenSysteem.Application.AuditLog.exe.config
+D:\Dev\git\cqrs-sample\PensioenSysteem.Application.AuditLog\bin\Debug\PensioenSysteem.Application.AuditLog.exe
+D:\Dev\git\cqrs-sample\PensioenSysteem.Application.AuditLog\bin\Debug\PensioenSysteem.Application.AuditLog.pdb
+D:\Dev\git\cqrs-sample\PensioenSysteem.Application.AuditLog\bin\Debug\Dapper.dll
+D:\Dev\git\cqrs-sample\PensioenSysteem.Application.AuditLog\bin\Debug\Newtonsoft.Json.dll
+D:\Dev\git\cqrs-sample\PensioenSysteem.Application.AuditLog\bin\Debug\PensioenSysteem.Infrastructure.dll
+D:\Dev\git\cqrs-sample\PensioenSysteem.Application.AuditLog\bin\Debug\RabbitMQ.Client.dll
+D:\Dev\git\cqrs-sample\PensioenSysteem.Application.AuditLog\bin\Debug\PensioenSysteem.Domain.Core.dll
+D:\Dev\git\cqrs-sample\PensioenSysteem.Application.AuditLog\bin\Debug\PensioenSysteem.Infrastructure.pdb
+D:\Dev\git\cqrs-sample\PensioenSysteem.Application.AuditLog\bin\Debug\Dapper.pdb
+D:\Dev\git\cqrs-sample\PensioenSysteem.Application.AuditLog\bin\Debug\Dapper.xml
+D:\Dev\git\cqrs-sample\PensioenSysteem.Application.AuditLog\bin\Debug\Newtonsoft.Json.xml
+D:\Dev\git\cqrs-sample\PensioenSysteem.Application.AuditLog\bin\Debug\RabbitMQ.Client.xml
+D:\Dev\git\cqrs-sample\PensioenSysteem.Application.AuditLog\bin\Debug\PensioenSysteem.Domain.Core.pdb
+D:\Dev\git\cqrs-sample\PensioenSysteem.Application.AuditLog\obj\Debug\PensioenSysteem.Application.AuditLog.csprojResolveAssemblyReference.cache
+D:\Dev\git\cqrs-sample\PensioenSysteem.Application.AuditLog\obj\Debug\PensioenSysteem.Application.AuditLog.exe
+D:\Dev\git\cqrs-sample\PensioenSysteem.Application.AuditLog\obj\Debug\PensioenSysteem.Application.AuditLog.pdb

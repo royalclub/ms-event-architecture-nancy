@@ -1,0 +1,12 @@
+D:\Dev\git\cqrs-sample\PensioenSysteem.Domain.Werkgever\bin\Debug\PensioenSysteem.Domain.Werkgever.dll
+D:\Dev\git\cqrs-sample\PensioenSysteem.Domain.Werkgever\bin\Debug\PensioenSysteem.Domain.Werkgever.pdb
+D:\Dev\git\cqrs-sample\PensioenSysteem.Domain.Werkgever\bin\Debug\Dapper.dll
+D:\Dev\git\cqrs-sample\PensioenSysteem.Domain.Werkgever\bin\Debug\PensioenSysteem.Domain.Core.dll
+D:\Dev\git\cqrs-sample\PensioenSysteem.Domain.Werkgever\bin\Debug\RabbitMQ.Client.dll
+D:\Dev\git\cqrs-sample\PensioenSysteem.Domain.Werkgever\bin\Debug\PensioenSysteem.Domain.Core.pdb
+D:\Dev\git\cqrs-sample\PensioenSysteem.Domain.Werkgever\bin\Debug\Dapper.pdb
+D:\Dev\git\cqrs-sample\PensioenSysteem.Domain.Werkgever\bin\Debug\Dapper.xml
+D:\Dev\git\cqrs-sample\PensioenSysteem.Domain.Werkgever\bin\Debug\RabbitMQ.Client.xml
+D:\Dev\git\cqrs-sample\PensioenSysteem.Domain.Werkgever\obj\Debug\PensioenSysteem.Domain.Werkgever.csprojResolveAssemblyReference.cache
+D:\Dev\git\cqrs-sample\PensioenSysteem.Domain.Werkgever\obj\Debug\PensioenSysteem.Domain.Werkgever.dll
+D:\Dev\git\cqrs-sample\PensioenSysteem.Domain.Werkgever\obj\Debug\PensioenSysteem.Domain.Werkgever.pdb
